@@ -1,27 +1,25 @@
 - Getting Started:
-    - Introduction: index.mdx
-    - Quickstart: quickstart.mdx
+    - Welcome: quickstart.mdx
+    - How to Use This Site: usage.mdx
 
-- Essentials:
-    - Markdown Guide: essentials/markdown.mdx
-    - Code Blocks: essentials/code.mdx
-    - Navigation Setup: essentials/navigation.mdx
-    - Images and Media: essentials/images.mdx
-    - Reusable Snippets: essentials/reusable-snippets.mdx
-    - Site Settings: essentials/settings.mdx
+- Services:
+    - Home-Based Tuition: services/home-tuition.mdx
+    - Study Abroad Support: services/study-abroad.mdx
+    - Muslim Schools Placement: services/muslim-schools.mdx
 
-- AI Coding Tools:
-    - Overview: ai-coding-tools.md
-    - Claude Code: ai-tools/claude-code.mdx
-    - Cursor: ai-tools/cursor.mdx
-    - WindSurf: ai-tools/windsurf.mdx
+- Tools & Portals:
+    - Booking System Guide: tools/booking.mdx
+    - Google Business Dashboard: tools/google-analytics.mdx
 
-- API Reference:
-    - Introduction: api-reference/introduction.mdx
-    - Endpoints: api-reference/endpoint/openapi.json
+- Learning & Resources:
+    - Student Handbook: resources/student-guide.mdx
+    - Parent Guide: resources/parent-guide.mdx
+    - Educational Tools: resources/tools.mdx
 
-- Developer Guide:
-    - Local Development: development.mdx
+- AI & Automations:
+    - AI Tutor Tools: ai/claude-code.mdx
+    - AI Learning Bots: ai/chatbots.mdx
 
-- Snippets:
-    - Snippet Collection: snippets/README.md
+- Elimuhub Team:
+    - Admin Resources: internal/admin.mdx
+    - Developer Docs: internal/development.mdx

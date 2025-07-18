@@ -1,3 +1,46 @@
+---
+title: AI Coding Tools
+description: A curated list of powerful free AI tools for coding and productivity.
+---
+
+# 🧠 Elimuhub AI Coding Tools Bookmark
+
+Boost your workflow with this handpicked list of free, online AI tools:
+
+## 🔧 Code Assistants
+
+- [**Codeium**](https://codeium.com): Fast autocomplete for 70+ languages and IDEs.
+- [**Continue.dev**](https://continue.dev): Open-source autopilot for VS Code.
+- [**Cursor**](https://www.cursor.sh): AI-first coding editor for web and app dev.
+- [**Tabby**](https://tabby.tabbyml.com): Self-hosted code completion for teams.
+
+## 📄 Docs & Text Generation
+
+- [**TypingMind**](https://www.typingmind.com): ChatGPT UI with memory and export tools.
+- [**Phind**](https://www.phind.com): Dev-focused AI search engine with instant code snippets.
+- [**You.com/code**](https://you.com/code): Chat with AI about code and documentation.
+
+## 🔍 Debugging & Refactoring
+
+- [**AICommit**](https://aicommit.dev): Write better Git commit messages.
+- [**Refact.ai**](https://refact.ai): Refactor large codebases with AI assist.
+- [**CodeWhisperer**](https://aws.amazon.com/codewhisperer): Amazon’s secure AI coder.
+
+## 📊 Dev Tools
+
+- [**OpenDevin**](https://github.com/OpenDevin/OpenDevin): Open-source dev agent.
+- [**Supermaven**](https://supermaven.com): Autocomplete for production-level code.
+- [**Kittl**](https://www.kittl.com): AI design tool with dev and creative templates.
+
+---
+
+## 💡 How to Use
+
+- Bookmark this page for quick access.
+- Try tools based on your workflow (VS Code, Git, etc).
+- Customize this list for your team or students.
+
+> Curated by [Elimuhub Tuition & Education Consultants](https://elimuhubconsultants.blogspot.com)
 # 🚀 Elimuhub AI Coding Assistants Bookmark List (2025)
 
 > A curated collection of AI-powered tools to help **Elimuhub Education Consultants** accelerate code generation, page creation, and educational content development.

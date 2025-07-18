@@ -1,5 +1,27 @@
 - Getting Started:
-    - Introduction: index.md
+    - Introduction: index.mdx
+    - Quickstart: quickstart.mdx
 
-- Developer Resources:
-    - AI Coding Tools: ai-coding-tools.md
+- Essentials:
+    - Markdown Guide: essentials/markdown.mdx
+    - Code Blocks: essentials/code.mdx
+    - Navigation Setup: essentials/navigation.mdx
+    - Images and Media: essentials/images.mdx
+    - Reusable Snippets: essentials/reusable-snippets.mdx
+    - Site Settings: essentials/settings.mdx
+
+- AI Coding Tools:
+    - Overview: ai-coding-tools.md
+    - Claude Code: ai-tools/claude-code.mdx
+    - Cursor: ai-tools/cursor.mdx
+    - WindSurf: ai-tools/windsurf.mdx
+
+- API Reference:
+    - Introduction: api-reference/introduction.mdx
+    - Endpoints: api-reference/endpoint/openapi.json
+
+- Developer Guide:
+    - Local Development: development.mdx
+
+- Snippets:
+    - Snippet Collection: snippets/README.md
